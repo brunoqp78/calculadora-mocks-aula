@@ -1,6 +1,7 @@
 package org.brsoft.entity;
 
 public class Calculadora {
+
 	/*
 	 * uma soma louca... 
 	 * se n1 for maior que n2 retorna n1+n2
@@ -11,5 +12,8 @@ public class Calculadora {
 		if (n1>n2) return n1+n2;
 		else if (n1==n2) return n1;
 		else return n2;
-	}
+	}	
+	
 }
+
+
